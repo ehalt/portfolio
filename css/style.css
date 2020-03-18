@@ -147,6 +147,12 @@ h2,h3,h4,h5,h6{
 .colmr{
     padding-bottom: 3%;
 }
+.card:hover{
+    -webkit-box-shadow: 2px 0px 19px 4px rgba(156,142,156,1);
+    -moz-box-shadow: 2px 0px 19px 4px rgba(156,142,156,1);
+    box-shadow: 2px 0px 19px 4px rgba(156,142,156,1);
+    transition: 1s;
+}
 .srr{
     padding-bottom: 5%;
 }
