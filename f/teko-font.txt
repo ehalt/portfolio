@@ -1,0 +1,13 @@
+========> Teko <=======
+
+[+] squre font
+
+
+@import :
+
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+
+
+font link :
+
+font-family: 'Teko', sans-serif;

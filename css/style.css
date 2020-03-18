@@ -1,0 +1,229 @@
+
+
+/*
+
+    ====== navigation ======
+
+*/
+
+
+.navbar a{
+    color: #fff;
+}
+
+/*
+
+=========== home section ===========
+
+*/
+
+.homebg{
+    background: url(../img/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hmr{
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+.hom1 h5,h1,p{
+    color: #fff;
+}
+.hom1 h5{
+    font-size: 25px;
+}
+.hom1 h1{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 70px;
+}
+.hom1 p{
+    padding-bottom: 4%;
+    color: #fff;
+    font-size: 17px;
+    
+}
+.hom1 a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 20px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+}
+
+/* ===========================/ About me /================= */
+
+.abt1{
+    padding-top: 4%;
+}
+.abt1 img{
+    width: 100%;
+    border-radius: 15px;
+}
+.abt2{
+    padding-top: 4%;
+}
+.abt2 p{
+    color: black;
+}
+.b{
+    font-weight: bold;
+}
+.cnam{
+    color: #16A878;
+}
+.r1mr{
+    padding-top: 10%;
+    padding-bottom: 14%;
+}
+.ico1 a{
+    color: #16A878;
+    padding-right: 5%;
+    font-size: 25px;
+}
+
+/*
+
+=========== Services section ===========
+
+*/
+.servicebg{
+    background: #F8F9FA;
+}
+.srv{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.s{
+    font-weight: bold;
+}
+.cb a{
+    color: #16A878;
+    font-size: 40px;
+}
+.cb p{
+    color: #111;
+}
+.colmr{
+    padding-bottom: 3%;
+}
+.srr{
+    padding-bottom: 5%;
+}
+/* ======================/ Projects /============ */
+
+.proh{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.proh h2{
+    color: #111;
+}
+.proh p{
+    color: #111;
+}
+.pro1{
+    padding-bottom: 2.5%;
+}
+.pro1 img{
+    width: 100%;
+}
+
+.promr{
+    padding-bottom: 5%;
+}
+/* ========== skill bar ====== */
+.skillbg{
+    background: #F8F9FA;
+}
+.skt{
+    padding-top: 2%;
+}
+.skt h2,p {
+    color: #111;
+}
+.skt2{
+    background: #F8F9FA;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
+
+
+
+h1 {
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+  }
+  
+  p {
+      margin: 0 0 25px;
+      line-height: 1.5;
+  }
+  
+  /* #skill-bar-wrapper {
+      font-size: 18px;
+  } */
+  
+  .skillbar-container {
+    position:relative;
+    display:block;
+    margin-bottom: 15px;   
+    width: 100%;
+    background-color: #666463;
+    background-color: rgba(255,255,255,.1);
+    height:35px;
+    height:5px;
+  }
+    
+  .skills {
+    height:35px;
+    height:5px;
+    width:0px;
+  }
+
+  /* ==================/ Contact me /================ */
+  .contactbg{
+
+  }
+  .con{
+      padding-top: 5%;
+      padding-bottom: 5%;
+  }
+  .con h2,p{
+    
+  }
+  .con1 {
+      padding-top: 5%;
+      padding-bottom: 5%;
+  }
+  .con2 a {
+    color: #16A878;
+    font-size: 40px;
+  }
+  /* ============= Footer section =============== */
+  .footbg{
+      background: #242424;
+  }
+  .ft{
+      padding-bottom: 3%;
+  }
+  .ft2{
+      padding-top: 5%;
+  }
+  .ft2 a{
+      font-size: 30px;
+      color: #16A878;
+      padding-right: 2%;
+  }
+  .ft2 p{
+      padding-top: 2%;
+      color: #fff;
+      font-size: 20px;
+  }
