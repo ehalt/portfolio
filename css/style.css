@@ -233,15 +233,10 @@ h1 {
   }
 
   /* ==================/ Contact me /================ */
-  .contactbg{
-
-  }
+  
   .con{
       padding-top: 5%;
       padding-bottom: 5%;
-  }
-  .con h2,p{
-    
   }
   .con1 {
       padding-top: 5%;
@@ -270,4 +265,12 @@ h1 {
       padding-top: 2%;
       color: #fff;
       font-size: 20px;
+  }
+  .popup{
+      padding-top: 2%;
+      padding-bottom: 3%;
+  }
+  .popup a{
+        color: #16A878;
+        font-size: 30px;
   }
