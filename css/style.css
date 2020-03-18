@@ -1,3 +1,28 @@
+/* home font */
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+/*  font-family: 'Abril Fatface', cursive;  */
+
+/* fOR PARAGRAPH TAG */
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma+2&display=swap');
+
+/* font-family: 'Baloo Tamma 2', cursive; */
+
+/* For h2-h6 */
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+/* font-family: 'Questrial', sans-serif; */
+
+
+/* Nav font */
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+/* font-family: 'Spartan', sans-serif; */
+
+
+/* Logo font */
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+/* font-family: 'Satisfy', cursive; */
 
 
 /*
@@ -9,6 +34,12 @@
 
 .navbar a{
     color: #fff;
+    font-size: 15px;
+    font-family: 'Spartan', sans-serif;
+}
+.nv{
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
 }
 
 /*
@@ -16,6 +47,10 @@
 =========== home section ===========
 
 */
+
+h2,h3,h4,h5,h6{
+    font-family: 'Questrial', sans-serif;
+}
 
 .homebg{
     background: url(../img/2.jpg);
@@ -31,11 +66,13 @@
 }
 .hom1 h5{
     font-size: 25px;
+    font-family: 'Questrial', sans-serif;
 }
 .hom1 h1{
     padding-top: 2%;
     padding-bottom: 2%;
     font-size: 70px;
+    font-family: 'Abril Fatface', cursive;
 }
 .hom1 p{
     padding-bottom: 4%;
@@ -67,6 +104,7 @@
 }
 .abt2 p{
     color: black;
+    font-family: 'Baloo Tamma 2', cursive;
 }
 .b{
     font-weight: bold;
