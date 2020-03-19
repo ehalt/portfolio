@@ -21,3 +21,16 @@
         padding-top: 15%;
     }
 }
+
+/* ===================== Testimonial ==================== */
+
+@media(max-width: 576px){
+    .cmr{
+        padding-bottom:0;
+    }
+    .cmr img{
+        width:80px;
+        height: 80px;
+        border-radius: 50%;
+    }
+}
