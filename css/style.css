@@ -61,7 +61,10 @@ h2,h3,h4,h5,h6{
     padding-top: 15%;
     padding-bottom: 15%;
 }
-.hom1 h5,h1,p{
+.hom1 h1{
+    color: #16A878;
+}
+.hom1 h5,p{
     color: #fff;
 }
 .hom1 h5{
@@ -100,7 +103,7 @@ h2,h3,h4,h5,h6{
     border-radius: 15px;
 }
 .abt2{
-    padding-top: 4%;
+    padding-top: 9%;
 }
 .abt2 p{
     color: black;
