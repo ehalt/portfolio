@@ -1,0 +1,23 @@
+
+
+/* ===================> home section <================ */
+
+@media(max-width: 576px) {
+    .hom1{
+        padding-top: 10%;
+    }
+    .hom1 h1{
+        font-size: 40px;
+    }
+    .hom1 p{
+        font-size: 15px;
+    }
+}
+
+/* ============= Foot section ========== */
+
+@media(max-width:  576px){
+    .ft{
+        padding-top: 15%;
+    }
+}

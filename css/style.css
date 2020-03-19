@@ -147,6 +147,9 @@ h2,h3,h4,h5,h6{
 .colmr{
     padding-bottom: 3%;
 }
+.card{
+    transition: 1s ease;
+}
 .card:hover{
     -webkit-box-shadow: 2px 0px 19px 4px rgba(156,142,156,1);
     -moz-box-shadow: 2px 0px 19px 4px rgba(156,142,156,1);
@@ -254,7 +257,7 @@ h1 {
       padding-bottom: 3%;
   }
   .ft2{
-      padding-top: 5%;
+      padding-top: 13%;
   }
   .ft2 a{
       font-size: 30px;
